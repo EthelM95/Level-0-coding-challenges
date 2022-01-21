@@ -1,6 +1,3 @@
-from re import I
-
-
 def max(*numbers):
     maximum = 0
     for i in numbers:
