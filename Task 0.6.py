@@ -5,4 +5,4 @@ def max(*numbers):
             maximum = i
     return maximum 
 
-print(max(4, 7, 42, 22, 70, 85, 9))
+print(max(4, 7, 42, 22, 70, 85, 9, 10))
